@@ -1,0 +1,8 @@
+Richard Grayson
+123456 9.2 B
+Lois Lane
+123457 11.2 A
+Bruce Wayne
+123458 5.6 D
+Clark Joseph Kent
+110121 8.4 B
